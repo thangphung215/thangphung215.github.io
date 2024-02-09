@@ -1,8 +1,8 @@
-# PhungDinhThang
+# Phung Dinh Thang
 
 ## Education
-- **Master in Computer Science Program**  
-  *Ho Chi Minh University of Technology*  
+- **Master in Computer Science Program (in progress)**  
+  *[Ho Chi Minh University of Technology](https://pgs.hcmut.edu.vn/)*  
   *Ho Chi Minh City, Viet Nam*  
   *Sep 2023 -- Now*
 
@@ -10,90 +10,61 @@
   *Vin Big Data Institute, Vin Group*  
   *Ha Noi City, Viet Nam*  
   *Sep 2021 -- Feb 2022*
-  - Machine Learning: 8.10/10
-  - Deep Learning: 8.38/10
-  - Computer Vision: 8.06/10
-  - Natural Language Processing: 8.33/10
-  - Linear Algebra: 8.13/10
 
 - **Bachelor of Engineering | Electrical Electrical: Control Engineering and Automation**  
-  *Ho Chi Minh University of Technology | Direct Admission*  
+  *[Ho Chi Minh University of Technology](https://hcmut.edu.vn/) | Direct Admission*  
   *Ho Chi Minh City, Viet Nam*  
   *Sep 2017 -- Sep 2021*
-  - Computer Vision: 8.50/10
-  - AI in controlling: 8.00/10
-  - Digital Image Processing: 8.50/10
-  - Linear Algebra: 8.50/10
 
 - **Certificates**  
-  *Coursera.org*  
+  *[Coursera](coursera.org)*  
   - Machine Learning Specialization
   - Deep Learning Specialization
 
 ## Work Experience
 - **Machine Learning Engineer**  
-  *Cybercore*  
+  *[Cybercore](cybercore.co.jp)*
   *Ho Chi Minh, Viet Nam*  
   *July 2023 -- Now*  
   - Member of Computer vision Research Team
-  - Build and optimize Tracking system for autonomous car
-  - Build and optimize Behaviour Analysis for Retails using cameras
+  - Tracking system for autonomous car (Object dectection and tracking)
+  - Behaviour Analysis for Retails (Object detection and tracking, Pose estimation)
+  - Dangerous Area in Factory (Object detection,segmentation and tracking)
 
 - **AI Engineer**  
-  *IVS Joint Stock Company (Individual Systems)*  
+  *[IVS Joint Stock Company](https://indivisys.vn/)*  
   *Ho Chi Minh, Viet Nam*  
   *Feb 2023 -- July 2023*  
   - Member of Managing technology and innovation-MTI Division
-  - Build and optimize Legal Chatbot using Deep Learning
-  - Paper Research
+  - Legal Chatbot using Deep Learning
 
 - **AI Engineer**  
-  *Radar Center, Viettel High Technology Industries Corporation, Viettel Group*  
+  *[Radar Center, Viettel High Technology Industries Corporation, Viettel Group](https://viettelhightech.vn/)*  
   *Ha Noi, Viet Nam*  
   *Apr 2022 -- Jan 2023*  
   - Member of Algorithms Research Team
-  - Build and optimize Radar targets classifier using Deep Learning
-  - Build and optimize Radar's noise processor using Machine Learning
+  - Radar targets classifier
+  - Radar's noise processor
 
 - **AI Engineer Intern**  
   *Vantix (Vinfast), Vin Group*  
   *Ha Noi, Viet Nam*  
   *Feb 2022 -- Apr 2022*  
   - Member of Data Engineer Team
-  - Make a feedback loop to control model quality
-  - Design a system to ensure the data meets GCPR
+  - Feedback loop for monitoring model quality, ensure GDPR
 
 - **AI Engineer Intern**  
   *ELEX LAB*  
   *Ho Chi Minh, Viet Nam*  
   *Jun 2019 -- Oct 2019*  
-  - Build pose estimation to detect children with wrong sitting pose at school with NVIDIA Jetson Nano
-  - Build bottles detector using YOLOv3 and Raspberry pi 3
+  - Pose estimation with NVIDIA Jetson Nano
+  - Bottles detector with Raspberry pi 3
 
-## Projects
-- **Radar's noise processor**  
-  *Radar Center, Viettel High Technology Industries Corporation, Viettel Group*  
-  *Ha Noi, Viet Nam*  
-  *Oct 2022*
-  - Building denoising module for radar system
+## Other Projects
 
-- **Automatic Container Code Reader**  
-  *Personal*  
-  *Viet Nam*  
-  *Oct 2022*
-  - Making application to automatically read container code at the seaport
-
-- **Automatic Water Meter Reader**  
-  *Personal*  
-  *Viet Nam*  
-  *Sep 2022*
-  - Making application to automatically read water meter at residential area
-
-- **Radar target classifier**  
-  *Radar Center, Viettel High Technology Industries Corporation, Viettel Group*  
-  *Ha Noi, Viet Nam*  
-  *Jun 2022*
-  - Building target classifier for radar system
+- **Personal**  
+  *Automatic Water Meter Reader* \
+  *Automatic Container Code Reader*
 
 - **Vehicles Detection and Speed Estimation using Deep Learning (front view)**  
   *Ho Chi Minh University of Technology*  
@@ -111,7 +82,7 @@
 
 ## Community Involvement
 - **Ho Chi Minh University of Technology Community Tutors**  
-  *Free tutoring for orphan in mathematics*  
+  *Tutoring for orphan in mathematics*  
   *Ho Chi Minh, Viet Nam*  
   *Summer 2017*
 
@@ -129,7 +100,6 @@
   Faculty of Electrical and Electronics Engineering  
   Ho Chi Minh University of Technology  
   Address: 268 Ly Thuong Kiet St., Dist. 10, HCM City, Vietnam  
-  Tel: (+84)938275130  
   Email: vinhhao@hcmut.edu.vn
 
 - **TANG NGOC TUAN, Ms**  
