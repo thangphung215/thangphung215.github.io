@@ -80,9 +80,10 @@
   - [Youtube](https://www.youtube.com/watch?v=CZPUt3wOUQM)
 
 ## Research
-- **A Discrete Clutter Reduction Method for Drone Detection with High Resolution Radars**  
+- **[A Discrete Clutter Reduction Method for Drone Detection with High Resolution Radars](https://ebooks.iospress.nl/doi/10.3233/FAIA220543)**  
   *The 12th International Conference on Electronics, Communications and Networks (CECNet 2022)*  
-  *2022*
+- **[Legar: A Legal Statute Identification System for Vietnamese Users on Land Law Matters](https://link.springer.com/chapter/10.1007/978-981-99-7666-9_23#chapter-info)**  
+  *International Conference on Intelligent Systems and Data Science (ISDS 2023)* 
 
 ## Community Involvement
 - **Ho Chi Minh University of Technology Community Tutors**  
