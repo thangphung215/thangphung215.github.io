@@ -107,7 +107,7 @@
   Email: vinhhao@hcmut.edu.vn
 
 - **TANG NGOC TUAN, Ms**  
-  Senior Machine Learning  
+  Senior Machine Learning Engineer
   Computer vision Research Team  
   Cybercore.co.jp  
   Address: 12th TNR Tower, 180-192 Nguyen Cong Tru St., District 1, HCM City, Vietnam  
