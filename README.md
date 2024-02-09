@@ -27,7 +27,7 @@
 
 ## Work Experience
 - **Machine Learning Engineer**  
-  *[Cybercore](cybercore.co.jp)*
+  *[Cybercore](cybercore.co.jp)*  
   *Ho Chi Minh, Viet Nam*  
   *July 2023 -- Now*  
   - Member of Computer vision Research Team
