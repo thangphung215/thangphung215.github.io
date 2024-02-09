@@ -3,6 +3,7 @@
 ## Personal Information
 - **Location**: Hochiminh City, Vietnam
 - **Email**: thangphung215@gmail.com
+
 ## Education
 - **Master in Computer Science Program (in progress)**  
   *[Ho Chi Minh University of Technology](https://pgs.hcmut.edu.vn/)*  
