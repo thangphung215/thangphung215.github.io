@@ -1,4 +1,4 @@
-# CV of PhungDinhThang
+# PhungDinhThang
 
 ## Education
 - **Master in Computer Science Program**  
